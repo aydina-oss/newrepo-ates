@@ -8,6 +8,7 @@ class Program
     {
         Console.Write("mexicanwave(hello world) =  ");
         mexicanwave("hello");
+        Console.WriteLine();
         PrintCharacterCodes("hello", "hello");
         PrintCharacterCodes("你好", "nihao");
     }
@@ -42,14 +43,15 @@ class Program
 
     }
     static void PrintCharacterCodes(string input, string label)
+    {
+        Console.WriteLine($"Character codes for {label}:");
+        foreach (char c in input)
         {
-            Console.WriteLine($"Character codes for {label}:");
-            foreach (char c in input)
-            {
-                Console.WriteLine($"{c} -> {(int)c}");
-            }
-            Console.WriteLine();
+            Console.WriteLine($"{c} -> {(int)c}");
         }
+        Console.WriteLine();
+    }
+    
     
 
 
