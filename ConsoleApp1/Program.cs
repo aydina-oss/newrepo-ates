@@ -1,5 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
 using System;
+using System.Text;
 
 class Program
 {
@@ -11,6 +12,8 @@ class Program
         Console.WriteLine();
         PrintCharacterCodes("hello", "hello");
         PrintCharacterCodes("你好", "nihao");
+        PrintBytes("hello");
+        PrintBytes("你好");
     }
 
 
@@ -51,6 +54,14 @@ class Program
         }
         Console.WriteLine();
     }
+    static void PrintBytes(string text)
+    {
+        byte[] bytes = Encoding.Default.GetBytes(text);
+        Console.WriteLine($"String: {text}");
+        Console.WriteLine("Byte array: [" + string.Join(", ", bytes) + "]");
+    }
+    
+
     
     
 
