@@ -1,0 +1,15 @@
+/Users/ateskaanaydin/Documents/GitHub/newrepo-ates/FileQs/bin/Debug/net9.0/FileQs
+/Users/ateskaanaydin/Documents/GitHub/newrepo-ates/FileQs/bin/Debug/net9.0/FileQs.deps.json
+/Users/ateskaanaydin/Documents/GitHub/newrepo-ates/FileQs/bin/Debug/net9.0/FileQs.runtimeconfig.json
+/Users/ateskaanaydin/Documents/GitHub/newrepo-ates/FileQs/bin/Debug/net9.0/FileQs.dll
+/Users/ateskaanaydin/Documents/GitHub/newrepo-ates/FileQs/bin/Debug/net9.0/FileQs.pdb
+/Users/ateskaanaydin/Documents/GitHub/newrepo-ates/FileQs/obj/Debug/net9.0/FileQs.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ateskaanaydin/Documents/GitHub/newrepo-ates/FileQs/obj/Debug/net9.0/FileQs.AssemblyInfoInputs.cache
+/Users/ateskaanaydin/Documents/GitHub/newrepo-ates/FileQs/obj/Debug/net9.0/FileQs.AssemblyInfo.cs
+/Users/ateskaanaydin/Documents/GitHub/newrepo-ates/FileQs/obj/Debug/net9.0/FileQs.csproj.CoreCompileInputs.cache
+/Users/ateskaanaydin/Documents/GitHub/newrepo-ates/FileQs/obj/Debug/net9.0/FileQs.sourcelink.json
+/Users/ateskaanaydin/Documents/GitHub/newrepo-ates/FileQs/obj/Debug/net9.0/FileQs.dll
+/Users/ateskaanaydin/Documents/GitHub/newrepo-ates/FileQs/obj/Debug/net9.0/refint/FileQs.dll
+/Users/ateskaanaydin/Documents/GitHub/newrepo-ates/FileQs/obj/Debug/net9.0/FileQs.pdb
+/Users/ateskaanaydin/Documents/GitHub/newrepo-ates/FileQs/obj/Debug/net9.0/FileQs.genruntimeconfig.cache
+/Users/ateskaanaydin/Documents/GitHub/newrepo-ates/FileQs/obj/Debug/net9.0/ref/FileQs.dll
