@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Bitwise")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7a1fab7c0b0a81ec80763b0fceae85d68152f02c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+25d355f5fbd8ac8885c9fa8f25e2299dc37c9309")]
 [assembly: System.Reflection.AssemblyProductAttribute("Bitwise")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Bitwise")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

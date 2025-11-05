@@ -1,0 +1,15 @@
+/Users/ateskaanaydin/Documents/GitHub/newrepo-ates/Bitwise/bin/Debug/net9.0/Bitwise
+/Users/ateskaanaydin/Documents/GitHub/newrepo-ates/Bitwise/bin/Debug/net9.0/Bitwise.deps.json
+/Users/ateskaanaydin/Documents/GitHub/newrepo-ates/Bitwise/bin/Debug/net9.0/Bitwise.runtimeconfig.json
+/Users/ateskaanaydin/Documents/GitHub/newrepo-ates/Bitwise/bin/Debug/net9.0/Bitwise.dll
+/Users/ateskaanaydin/Documents/GitHub/newrepo-ates/Bitwise/bin/Debug/net9.0/Bitwise.pdb
+/Users/ateskaanaydin/Documents/GitHub/newrepo-ates/Bitwise/obj/Debug/net9.0/Bitwise.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ateskaanaydin/Documents/GitHub/newrepo-ates/Bitwise/obj/Debug/net9.0/Bitwise.AssemblyInfoInputs.cache
+/Users/ateskaanaydin/Documents/GitHub/newrepo-ates/Bitwise/obj/Debug/net9.0/Bitwise.AssemblyInfo.cs
+/Users/ateskaanaydin/Documents/GitHub/newrepo-ates/Bitwise/obj/Debug/net9.0/Bitwise.csproj.CoreCompileInputs.cache
+/Users/ateskaanaydin/Documents/GitHub/newrepo-ates/Bitwise/obj/Debug/net9.0/Bitwise.sourcelink.json
+/Users/ateskaanaydin/Documents/GitHub/newrepo-ates/Bitwise/obj/Debug/net9.0/Bitwise.dll
+/Users/ateskaanaydin/Documents/GitHub/newrepo-ates/Bitwise/obj/Debug/net9.0/refint/Bitwise.dll
+/Users/ateskaanaydin/Documents/GitHub/newrepo-ates/Bitwise/obj/Debug/net9.0/Bitwise.pdb
+/Users/ateskaanaydin/Documents/GitHub/newrepo-ates/Bitwise/obj/Debug/net9.0/Bitwise.genruntimeconfig.cache
+/Users/ateskaanaydin/Documents/GitHub/newrepo-ates/Bitwise/obj/Debug/net9.0/ref/Bitwise.dll
